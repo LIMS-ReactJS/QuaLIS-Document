@@ -3,4 +3,7 @@
 - User Management
 
 ## LIMS
-> LIMS
+> Login
+> User Management
+> Test Management
+> Test Group Management
